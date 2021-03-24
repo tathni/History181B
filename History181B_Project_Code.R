@@ -14,8 +14,8 @@ library(formattable)
 setwd("E:/SynologyDrive/Tejas_Server/! Stanford University/! Year 3 - Quarter 2/History 181B/Final Project/")
 
 
-# Load in the Turjoman dataset of geo-observations
-data <- read_excel("Turjoman_Data.xlsx")
+# Load in the Turjman dataset of geo-observations
+data <- read_excel("Turjman_Data.xlsx")
 
 
 # Map of all observations in aggregate, with summary statistics
