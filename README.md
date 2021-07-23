@@ -1,4 +1,4 @@
-# History181B
+# history-181b
 
 ## Overview
 * Mapping the spatial imaginaries and physicalities of Ihsan Turjman
